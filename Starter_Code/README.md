@@ -1,3 +1,5 @@
+> **Historical assignment.** For the current credential-free demo, use the [project README](../README.md).
+
 ## Unit 19 Homework: Cryptocurrency Wallet
 
 ![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
